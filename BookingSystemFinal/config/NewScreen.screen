@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Panel" id="2" x="205" y="182" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Arrow" id="5" x="304" y="238" width="97" height="8" measuredWidth="97" measuredHeight="8" left="false" right="true"/>
+  <widgets xsi:type="model:Label" id="6" x="236" y="216" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="7" x="408" y="182" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Panel" id="8" x="608" y="182" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Panel" id="9" x="806" y="262" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Arrow" id="10" x="507" y="238" width="102" height="8" measuredWidth="102" measuredHeight="8" left="false" right="true"/>
+  <widgets xsi:type="model:Panel" id="11" x="806" y="117" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Arrow" id="12" x="707" y="175" width="100" height="64" measuredWidth="100" measuredHeight="64" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Arrow" id="13" x="707" y="238" width="100" height="73" measuredWidth="100" measuredHeight="73" left="false" right="true"/>
+  <widgets xsi:type="model:Panel" id="14" x="991" y="182" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Arrow" id="15" x="905" y="230" width="87" height="88" measuredWidth="87" measuredHeight="88" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Arrow" id="16" x="905" y="170" width="87" height="61" measuredWidth="87" measuredHeight="61" left="false" right="true"/>
+  <widgets xsi:type="model:Label" id="19" x="223" y="219" text="회원가입" measuredWidth="66" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="20" x="417" y="220" text="아이디 입력" measuredWidth="86" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="21" x="623" y="220" text="비번 입력" measuredWidth="71" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="22" x="837" y="155" text="HOST" measuredWidth="47" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="23" x="831" y="300" text="GUEST" measuredWidth="53" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="24" x="995" y="220" text="회원가입완료" measuredWidth="96" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="25" x="204" y="462" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Panel" id="26" x="407" y="384" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Panel" id="27" x="411" y="565" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Panel" id="28" x="607" y="384" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Panel" id="29" x="809" y="384" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Panel" id="30" x="614" y="565" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Arrow" id="31" x="303" y="445" width="101" height="70" measuredWidth="101" measuredHeight="70" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Arrow" id="32" x="506" y="437" width="105" height="8" measuredWidth="105" measuredHeight="8" left="false" right="true"/>
+  <widgets xsi:type="model:Arrow" id="33" x="706" y="437" width="105" height="8" measuredWidth="105" measuredHeight="8" left="false" right="true"/>
+  <widgets xsi:type="model:Arrow" id="34" x="303" y="524" width="109" height="80" measuredWidth="109" measuredHeight="80" left="false" right="true"/>
+  <widgets xsi:type="model:Arrow" id="35" x="510" y="611" width="105" height="8" measuredWidth="105" measuredHeight="8" left="false" right="true"/>
+  <widgets xsi:type="model:Label" id="36" x="229" y="499" text="로그인" measuredWidth="51" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="37" x="426" y="426" text="숙소등록" measuredWidth="66" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="38" x="612" y="425" text="숙소정보입력" measuredWidth="96" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="39" x="816" y="421" text="숙소등록완료" measuredWidth="96" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="40" x="432" y="599" text="정보확인" measuredWidth="66" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="41" x="620" y="600" text="정보확인완료" measuredWidth="96" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="60" x="210" y="766" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Panel" id="61" x="413" y="688" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Panel" id="62" x="417" y="869" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Panel" id="63" x="613" y="688" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Panel" id="64" x="815" y="688" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Panel" id="65" x="620" y="869" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Arrow" id="66" x="309" y="749" width="101" height="70" measuredWidth="101" measuredHeight="70" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Arrow" id="67" x="512" y="741" width="105" height="8" measuredWidth="105" measuredHeight="8" left="false" right="true"/>
+  <widgets xsi:type="model:Arrow" id="68" x="712" y="741" width="105" height="8" measuredWidth="105" measuredHeight="8" left="false" right="true"/>
+  <widgets xsi:type="model:Arrow" id="69" x="309" y="828" width="109" height="80" measuredWidth="109" measuredHeight="80" left="false" right="true"/>
+  <widgets xsi:type="model:Arrow" id="70" x="516" y="915" width="105" height="8" measuredWidth="105" measuredHeight="8" left="false" right="true"/>
+  <widgets xsi:type="model:Label" id="71" x="235" y="804" text="로그인" measuredWidth="51" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="72" x="433" y="728" text="숙소검색" measuredWidth="66" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="73" x="633" y="728" text="숙소예약" measuredWidth="66" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="74" x="835" y="727" text="예약완료" measuredWidth="66" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="75" x="437" y="905" text="정보확인" measuredWidth="66" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="76" x="625" y="904" text="정보확인완료" measuredWidth="96" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="96" x="205" y="103" text="회원가입" measuredWidth="107" measuredHeight="40">
+    <font size="24px"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="97" x="204" y="384" text="Host" measuredWidth="60" measuredHeight="40">
+    <font size="24px"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="98" x="211" y="705" text="Guest" measuredWidth="73" measuredHeight="40">
+    <font size="24px"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="100" x="178" y="369" width="942" measuredWidth="942" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="101" x="178" y="672" width="942" measuredWidth="942" measuredHeight="6"/>
+  <hRuler/>
+  <vRuler/>
+  <font name="맑은 고딕" size="12px"/>
+</model:Screen>
